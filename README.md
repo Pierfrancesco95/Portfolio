@@ -1,3 +1,3 @@
 # Progetti_personali
 
-### 1) Web Scapring annunci real estate
+### 1) Web Scraping annunci real estate

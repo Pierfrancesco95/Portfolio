@@ -1,8 +1,12 @@
+# Inventory Status - The Look eCommerce
+
 Tra i dataset pubblici di BigQuery su Google Cloud Platform ho scelto di analizzare il database "The look eCommerce" (ID set di dati: bigquery-public-data.thelook_ecommerce).
 
 Dopo una prima analisi volta alla comprensione delle relazioni tra le tabelle, ho realizzato un ER Diagram per rappresentare tali relazioni. Sulla base di ciò, tramite query ho estratto i dati relativi all'inventory.
 
 Dopo aver esplorato e pulito un po' i dati tramite Python, ho estratto una nuova versione csv del dataset che ho utilizzato per svolgere una rappresentazione degli insights tramite Tableau con la creazione di due dashboards.
+
+Da qui inizia l'analisi sullo status del magazzino.
 
 Di seguito un breve summary che può aiutare nella lettura delle dashboards.
 
@@ -21,12 +25,17 @@ Di seguito un breve summary che può aiutare nella lettura delle dashboards.
 - Osservando la distribuzione dei valori di Inventory Turn Over di ciascun prodotto, notiamo che la maggior parte dei prodotti ha un risultato tra 0.15 e 0.45;
 
 PREMESSE:
+
 a) L'inventory turn over indica quanto velocemente le rimanenze stanno "ruotando" in magazzino. Più è alto questo indicatore, più le vendite sono veloci (ed è positivo in genere per il business). Più è basso, più ci sono vendite deboli e/o eccesso di rimanenze;
+
 b) Avere materie ferme in magazzino rappresenta un costo (sia in termini di gestione che di costo opportunità per le vendite perse);
 
 CONCLUSIONI:
+
 a) in un settore come quello dell'abbigliamento, soggetto a fattori come la moda che denotano una forte stagionalità, è necessario avere un inventory turn over alto per essere competitivi ed mitigare il rischio di invenduto e di obsolescenza dei prodotti;
+
 b) per evitare questo rischio, si può agire in due direzione:
+
 - rivedere le politiche di approvvigionamento dei prodotti in funzione della previsione delle vendite;
 - spingere sulle vendite tramite strategie di scontistiche ai fini di "svuotare" il magazzino.
 

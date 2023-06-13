@@ -8,6 +8,8 @@ Dopo aver esplorato e pulito un po' i dati tramite Python, ho salvato una nuova 
 
 Da qui inizia l'analisi sullo status del magazzino.
 
+I suddetti file di lavoro sono allegati nella cartella "Documenti di lavoro".
+
 Di seguito un breve summary che può aiutare nella lettura delle dashboards.
 
 ### 1) Dashboard "Inventory Analysis 2022"

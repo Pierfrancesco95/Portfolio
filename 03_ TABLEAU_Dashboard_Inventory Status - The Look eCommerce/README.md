@@ -2,9 +2,9 @@
 
 Tra i dataset pubblici di BigQuery su Google Cloud Platform ho scelto di analizzare il database "The look eCommerce" (ID set di dati: bigquery-public-data.thelook_ecommerce) estratto con query SQL.
 
-Dopo una prima analisi volta alla comprensione delle relazioni tra le tabelle, ho realizzato un ER Diagram per rappresentare tali relazioni. Sulla base di ciò, tramite query ho estratto in CSV i dati relativi all'inventory.
+Dopo una prima analisi volta alla comprensione delle relazioni tra le tabelle, ho realizzato un ER Diagram per rappresentare tali relazioni. Sulla base di ciò, tramite query ho estratto in formato CSV i dati relativi all'inventory.
 
-Dopo aver esplorato e pulito un po' i dati tramite Python, ho salvato una nuova versione csv del dataset che ho utilizzato per svolgere una rappresentazione degli insights tramite Tableau con la creazione di due dashboards.
+Dopo aver esplorato e pulito un po' i dati tramite Python, ho salvato una nuova versione in formato CSV del dataset che ho utilizzato per svolgere una rappresentazione degli insights tramite Tableau con la creazione di due dashboards.
 
 Da qui inizia l'analisi sullo status del magazzino.
 

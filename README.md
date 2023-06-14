@@ -9,5 +9,5 @@
 ### 3) TABLEAU
 ####   Dashboard: Inventory Status Analysis - The Look eCommerce Database.
 
-### 4) PYTHON (draft - in progress)
+### 4) PYTHON
 ####   Web Scraping, Data cleaning, Machine Learning: Price Prediction Real Estate Industry.

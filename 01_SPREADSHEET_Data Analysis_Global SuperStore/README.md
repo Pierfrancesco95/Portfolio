@@ -1,3 +1,3 @@
 # DATA ANALYSIS - GLOBAL SUPERSTORE
 
-L'obiettivo di questo progetto è di analizzate il dataset "Global Superstore" tramite un foglio di calcolo. Partendo da una serie di domande, sono giunto alle relative risposte tramite l'elaborazione di pivot tables e/o utilizzo di formule (xlookup, sumifs, ecc...).
+The goal of this project is to analyze the "Global Superstore" dataset using a spreadsheet. Starting from a series of questions, I arrived at the relative answers through the elaboration of pivot tables and/or the use of formulas (xlookup, sumifs, etc...).

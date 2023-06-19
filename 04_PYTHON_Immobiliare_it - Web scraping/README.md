@@ -1,3 +1,3 @@
-# WEB SCRAPING, DATA CLEANING e REGRESSIONE SEMPLICE - ANNUNCI REAL ESTATE
+# WEB SCRAPING, DATA CLEANING e LINEAR REGRESSION - REAL ESTATE ADS
 
-L'obiettivo di questo progetto è di scrivere in linguaggio python un script che sia in grado di estrarre i dati da un sito web di annunci real estate, con il fine di creare un dataset da utilizzare successivamente per addestrare un modello di regressione che sia in grado di prevedere il prezzo di vendita.
+The goal of this project is to write a script in python language that is able to extract data from a real estate ads website, with the aim of creating a dataset to be used later to train a regression model that is able to predict the selling price.

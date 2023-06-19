@@ -1,12 +1,11 @@
 # DATA EXPLORATION - EUROPEAN SOCCER DATABASE
 
-L'obiettivo di questo progetto è esplorare il database "European Soccer" (fonte: https://www.kaggle.com/datasets/hugomathien/soccer ) per trarre informazioni interessanti utilizzando query scritte in SQL tramite Google Bigquery. 
+The goal of this project is to explore the "European Soccer" database (source: https://www.kaggle.com/datasets/hugomathien/soccer ) to get interesting information using queries written in SQL via Google Bigquery.
 
-Ai fini del progetto sono state utilizzate alcune tabelle tra quelle presenti nel database originario, le quali sono state importate ed analizzate in Google Bigquery.
+For the purposes of the project, some tables were used among those present in the original database, which were imported and analyzed in Google Bigquery.
 
-Dopo aver analizzato la struttura del Database e delle taballe, ho costrutio un diagramma E-R per individuare le relazione tra queste.
+After analyzing the structure of the Database and the tables, I built an E-R diagram to identify the relationship between them.
 
-Fatto questo e prefissate una serie di domande, ho scritture delle query SQL per individuare le risposte.
+Once this was done and set a series of questions, I wrote the SQL queries to find the answers.
 
-P.S.
-I file di lavoro sono stati allegati nella cartella "Documenti di lavoro".
+P.S. The work files have been attached in the "Work Documents" folder.

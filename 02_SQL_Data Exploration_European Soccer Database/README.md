@@ -8,4 +8,4 @@ After analyzing the structure of the Database and the tables, I built an E-R dia
 
 Once this was done and set a series of questions, I wrote the SQL queries to find the answers.
 
-P.S. The work files have been attached in the "Work Documents" folder.
+P.S. The work files have been attached in the "Documenti di lavoro" folder.

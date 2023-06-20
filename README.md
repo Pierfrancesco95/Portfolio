@@ -10,7 +10,7 @@ The goal of this project is to analyze the "Global Superstore" dataset using a s
 ### 2) SQL
 ####   Project: "Data exploration: European Soccer Database"
 
-The goal of this project is to explore the "European Soccer" database writing SQL queries. First built an E-R diagram to identify the relationship between tables, then I used Google Bigquery as data warehouse for the analysis. Starting from a series of questions, I arrived at the relative answers through the elaboration of SQL queries.
+The goal of this project is to explore the "European Soccer" database writing SQL queries. First I built an E-R diagram to identify the relationship between tables, then I used Google Bigquery as data warehouse for the analysis. Starting from a series of questions, I arrived at the relative answers through the elaboration of SQL queries.
 
 ### 3) TABLEAU
 ####   Project: "Dashboard: Inventory Status Analysis - The Look eCommerce Database"

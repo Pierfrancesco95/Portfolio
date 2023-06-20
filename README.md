@@ -13,9 +13,11 @@ The goal of this project is to analyze the "Global Superstore" dataset using a s
 The goal of this project is to explore the "European Soccer" database writing SQL queries. First built an E-R diagram to identify the relationship between tables, then I used Google Bigquery as data warehouse for the analysis. Starting from a series of questions, I arrived at the relative answers through the elaboration of SQL queries.
 
 ### 3) TABLEAU
-####   Dashboard: Inventory Status Analysis - The Look eCommerce Database.
+####   Project: "Dashboard: Inventory Status Analysis - The Look eCommerce Database"
 
-The goal of this project is to represent useful insights about "The Look eCommerce" database using Tableau to make some dashboards. In particular, I decided to analyse the inventory status of the eCommerce. So with KPIs and useful charts, I first find the main problems and then I suggest what actions should be taken.
+The goal of this project is to represent useful business insights about "The Look eCommerce" database using Tableau to make some dashboards. In particular, I decided to analyse the inventory status of the eCommerce. Showing KPIs, tables and charts, I first find the main problems and then I suggest what actions should be taken to improve the current situation.
 
 ### 4) PYTHON
-####   Web Scraping, Data cleaning, Machine Learning: Price Prediction Real Estate Industry.
+####   Project: "Web Scraping, Data cleaning, Machine Learning: Price Prediction Real Estate Industry"
+
+The goal of this project is to write a script in python language that is able to extract data from a real estate ads website. So I imported this script in a Jupyter notebook to get a raw dataset, which I had to clean and explore before I could used it to train a regression model that is able to predict the houses selling price. 

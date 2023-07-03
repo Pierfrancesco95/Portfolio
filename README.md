@@ -19,7 +19,7 @@ The goal of this project is to write a script in python language that is able to
 
 ####  02 Project: "API, JSON, NLP and Sentiment Analysis: Youtube.com"
 
-The goal of this project is to write a script in python language that is able to get data using APIs and JSON file. So I imported this script in a Jupyter notebook to get a raw dataset, which I had to clean and explore before I could used it to make a Sentiment Analysis with Natural Languange Processing techniques to determine if the emotional tone of comments is positive, negative, or neutral.
+The goal of this project is to write a script in python language that is able to get data making requests to an API and using JSON files. So I imported this script in a Jupyter notebook to get a raw dataset, which I had to clean and explore before I could used it to make a Sentiment Analysis with Natural Languange Processing techniques to determine if the emotional tone of comments is positive, negative, or neutral.
 
 ### 4) DATA VISUALIZATION
 ####  01 Project: "Tableau Dashboard: Inventory Status Analysis - The Look eCommerce Database"

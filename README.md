@@ -21,7 +21,7 @@ The goal of this project is to write a script in python language that is able to
 
 The goal of this project is to write a script in python language that is able to get data using APIs and JSON file. So I imported this script in a Jupyter notebook to get a raw dataset, which I had to clean and explore before I could used it to make a Sentiment Analysis with Natural Languange Processing techniques to determine if the emotional tone of comments is positive, negative, or neutral.
 
-### 4) TABLEAU
-####  01 Project: "Dashboard: Inventory Status Analysis - The Look eCommerce Database"
+### 4) DATA VISUALIZATION
+####  01 Project: "Tableau Dashboard: Inventory Status Analysis - The Look eCommerce Database"
 
-The goal of this project is to represent useful business insights about "The Look eCommerce" database using Tableau to make some dashboards. In particular, I decided to analyse the inventory status of the eCommerce. Showing KPIs, tables and charts, I first find the main problems and then I suggest what actions should be taken to improve the current situation.
+The goal of this project is to represent useful business insights about "The Look eCommerce" database using Tableau to make some Tableau dashboards. In particular, I decided to analyse the inventory status of the eCommerce. Showing KPIs, tables and charts, I first find the main problems and then I suggest what actions should be taken to improve the current situation.

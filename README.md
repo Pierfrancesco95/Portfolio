@@ -28,7 +28,7 @@ The goal of this project is to represent useful business insights about "The Loo
 
 ####  02 Project: "Looker Studio Dashboard: Users Analysis - The Google Merchandise Store"
 
-The goal of this project is to make a Dashboard using Looker Studio to show some useful business insights about "Google Merchandise Store" database. In particular, I decided to focus the analysis on users (who they are, where they are and how they change during the time). First, I connected the database using as source GA4 website ("Google Analytic 4").
+The goal of this project is to make a Dashboard using Looker Studio to show some useful business insights about "Google Merchandise Store" database. In particular, I decided to focus the analysis on users (who they are, where they are and how they change during the time). First, I connected the database using as source GA4 website ("Google Analytics 4").
 
 
 

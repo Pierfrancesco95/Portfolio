@@ -25,3 +25,7 @@ The goal of this project is to write a script in python language that is able to
 ####  01 Project: "Tableau Dashboard: Inventory Status Analysis - The Look eCommerce Database"
 
 The goal of this project is to represent useful business insights about "The Look eCommerce" database using Tableau to make some Tableau dashboards. In particular, I decided to analyse the inventory status of the eCommerce. Showing KPIs, tables and charts, I first find the main problems and then I suggest what actions should be taken to improve the current situation.
+
+####  02 Project: "Locker Studio Dashboard: Users Analysis - The Google Merchandise Store"
+
+The goal of this project is to ... (DRAFT)

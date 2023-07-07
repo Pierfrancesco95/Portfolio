@@ -26,6 +26,19 @@ The goal of this project is to write a script in python language that is able to
 
 The goal of this project is to represent useful business insights about "The Look eCommerce" database using Tableau to make some Tableau dashboards. In particular, I decided to analyse the inventory status of the eCommerce. Showing KPIs, tables and charts, I first find the main problems and then I suggest what actions should be taken to improve the current situation.
 
-####  02 Project: "Locker Studio Dashboard: Users Analysis - The Google Merchandise Store"
+####  02 Project: "Looker Studio Dashboard: Users Analysis - The Google Merchandise Store"
 
-The goal of this project is to ... (DRAFT)
+The goal of this project is to make a Dashboard using Looker Studio to show some useful business insights about "Google Merchandise Store" database. In particular, I decided to focus the analysis on users (who they are, where they are and how they change during the time). First, I connected the database using as source GA4 website ("Google Analytic 4").
+
+
+
+
+
+
+
+
+
+
+
+
+

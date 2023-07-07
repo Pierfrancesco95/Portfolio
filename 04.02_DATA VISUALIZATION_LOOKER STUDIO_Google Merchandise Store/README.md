@@ -12,3 +12,5 @@ https://analytics.google.com/analytics/web/demoAccount?appstate=/p213025502
 
 Here the link to the dashboard I made in Looker Studio:
 https://lookerstudio.google.com/reporting/ba5fb2fd-cf3d-4c30-b336-3bdfcabe73bc
+
+For convenience, you could also visualize the dashboard in the pdf version saved in this repository.

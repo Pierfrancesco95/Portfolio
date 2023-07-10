@@ -11,5 +11,7 @@ In this project I analyzed Videogames sales ...
 - 8th Generation (PS4, WiiU, XboxOne)
 - Conclusions 
 
+Source dataset: https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
 
-https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
+Console generation timeline:
+<img src="https://upload.wikimedia.org/wikipedia/en/timeline/8a26gtbjuhmz225itk732rfwueowp7w.png" width="900" height="350" />

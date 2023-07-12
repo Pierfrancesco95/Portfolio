@@ -1,7 +1,5 @@
 # Sales Analysis - Videogames sales at 2016
 
-THIS DESCRIPTION IS A DRAFT
-
 The chart shows the console generations timeline:
 <img src="https://upload.wikimedia.org/wikipedia/en/timeline/8a26gtbjuhmz225itk732rfwueowp7w.png" width="900" height="350" />
 

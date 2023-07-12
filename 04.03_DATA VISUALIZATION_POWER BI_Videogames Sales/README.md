@@ -2,7 +2,7 @@
 
 THIS DESCRIPTION IS A DRAFT
 
-Console generations timeline:
+The chart shows the console generations timeline:
 <img src="https://upload.wikimedia.org/wikipedia/en/timeline/8a26gtbjuhmz225itk732rfwueowp7w.png" width="900" height="350" />
 
 

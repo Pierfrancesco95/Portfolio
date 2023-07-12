@@ -30,7 +30,7 @@ The goal of this project is to represent useful business insights about "The Loo
 
 The goal of this project is to make a Dashboard using Looker Studio to show some useful business insights about "Google Merchandise Store" database. In particular, I decided to focus the analysis on users (who they are, where they are and how they change during the time). First, I connected the database using as source GA4 website ("Google Analytics 4").
 
-###  03 Project: "Power BI Dashboard: Sales Analysis - Videogames sales"
+###  03 Project: "Power BI Dashboard: Sales Analysis - Videogames"
 
 The goal of this project is to represent useful business insights about "Videogames sales at 2016" database using Power BI to make some dashboards. In particular, I decided to make a comparison among Videogames generation (6th, 7th and 8th ones) focusing on the most famous not-portable platforms of the main players in the industry (Nintendo, Sony and Microsoft).
 

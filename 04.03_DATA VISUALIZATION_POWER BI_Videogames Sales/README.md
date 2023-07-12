@@ -42,17 +42,81 @@ One big limitation in the analysis is about the 8th generation data. Because, as
 
 ## Overall
 
-Overall the videogames developed are about 11k and the videogames sold are about 811k. Nintendo is the company who have sold most videogame as developer and as publisher, that's because Nintendo develops and publishes its own videogames, differently from for example Sony who publishes videogames developed by other companies. The platform who made sold more videogames is the Playstation 2 and it is owned by Sony. The videogame genre most sold are action, sports and shooter.
+Overall the videogames developed are about 11k and the videogames sold are about 811k. The developers are many more than publisher companies. The platforms are 31 ant the one that made sold more videogames is the Playstation 2 and it was owned by Sony. I'll go in detail about platforms later. The videogame genres are 13 and the most sold ones are action, sports and shooter.
+
+### Developers and Publishers
+Nintendo is the company who have sold most videogame as developer and as publisher, that's because Nintendo develops and publishes its own videogames, differently from for example Sony who publishes also videogames developed by other companies.
+#### Most sold videogames
+- **Nintendo**: videogames for Wii and DS platforms;
+- **Elettronics Art**: FIFA;
+- **Ubisoft**: Assassin's Creed and Just Dance;
+- **Rockstar**: Grand Theft Auto;
+- **Activision**: Call of Duty;
+- **Sony Company**: Gran Turismo, Final Fantasy and Crash Bandicoot.
+
+Please note these companies are not in order because someone are both developer and publisher, also I reported the title of series videogames (for example exist FIFA 13, FIFA 14 etc...)
+
+### Years of release
 The sales trend is increasing up to 2008 where there is the maximum peak for the games released in that year.
-In the top 10 videogames for global sales there are 7 Nintendo's videogames and 3 videogames cross platforms ("Call of duty" series). 
+In the all time bestseller videogames for global sales there are 8 Nintendo's videogames and 3 videogames cross platforms ("Call of duty" series). 
 Considering that more recently released video games sell more than older ones, it is interesting to find that in this classification there are 2 videogames of 80's (Tetris and Super Mario Bros) and 1 videogame of 90's (Pokemon Red/Pokemon Blue).
 
 ##  6th Generation (PS2, GameCube, Xbox)
 
+In the 6h Generation the main consoles were PS2 (Sony), Gamecube (Nintendo) and Xbox (Microsoft). In this generation the most selling platform was the Playstation 2 with 112k videogames sold (where the all generation sold 153k units), which was also the one with more videogame playable (61% of all videogame developed in the generation).
+
+The largest market is North America, followed by Europe.
+
+The bestseller videogames are released in between 2002 and 2004.
+
+The bestseller videogame was "Grand Theft Auto: San Andreas", playable only with Playstation 2 or Xbox.
+
+The most selling genre are in order: Action, Sports and Shooter. In particular:
+- for PS2, action and sports with Grand Theft Auto and Gran Turismo;
+- for Gamecube, action with Super Smash Bros;
+- for Xbox, shooter with Halo.
+
+In this generation we noted a big gap between Sony and others.
+
 ## 7th Generation (PS3, Wii, Xbox360)
+
+In the 7h Generation the main consoles were PS3 (Sony), Wii (Nintendo) and Xbox360 (Microsoft). In this generation the most selling platform was the Xbox 360 with 89k videogames sold (where the all generation sold 260k units), while the platform with more videogame playable was the Playstation 3 (34% of all videogame developed in the generation).
+
+The largest market is North America, followed by Europe.
+
+The bestseller videogames are released in between 2009 and 2011.
+
+The bestseller videogame was Wii sports, playable only with Wii.
+
+The most selling genre are in order: Action, Sports and Shooter. In particular:
+- for PS3, action and shooter with Grand Theft Auto and Call of Duty;
+- for Wii, sport with Wii sports and Mario Kart;
+- for Xbox360, shooter and action with Kinect, Grand Theft Auto and Call of Duty.
+
+In this generation we noted there is almost an equality between the platforms for video games sold and developed.
 
 ## 8th Generation (PS4, WiiU, XboxOne)
 
+In the 8h Generation the main consoles were PS4 (Sony), WiiU (Nintendo) and XboxOne (Microsoft). In this generation the most selling platform was the Playstation 4 with 30k videogames sold (where the all generation sold 52k units), while the platform with more videogame playable was the Playstation 4 (50% of all videogame developed in the generation).
+
+The largest market is North America, followed by Europe.
+
+The bestseller videogames are released in between 2014 and 2015.
+
+The bestseller videogame was "Call of Duty: Black Ops 3", playable only with Playstation 4 or XboxOne.
+
+The most selling genre are in order: Shooter, Action and Sports. In particular:
+- for PS4, action and shooter with Grand Theft Auto and Call of Duty;
+- for WiiU, platform with Mario games;
+- for XboxOne, shooter and action with Grand Theft Auto and Call of Duty.
+
+In this generation we noted Sony returns to be the best one in the market with a big gap with others.
+Also we noted the shooter became the favorite genre, it is possible due to spread of online games in this period.
+
 ## Generations comparison
 
+draft
+
 ## Conclusion
+
+I giochi più venduti sono quelli rilasciati alla metà del ciclo di vita della piattaforma

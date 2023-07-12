@@ -42,7 +42,10 @@ One big limitation in the analysis is about the 8th generation data. Because, as
 
 ## Overall
 
-
+Overall the videogames developed are about 11k and the videogames sold are 811k. Nintendo is the company who have sold most videogame as developer and as publisher, that's because Nintendo develeps and publishes its own videogames, differently from for example Sony who publish videogame developped by other companies. The platform who made sold more videogames is the Playstation 2 by Sony. The videogame genre most sold are action, sports and shooter.
+The sales trend is increasing up to 2008 where there is the maximum peak for the games released in that year.
+In the top 10 videogames for global sales there are 7 Nintendo's videogames and 3 videogames cross platforms ("Call of duty" series). 
+Considering that more recently released video games sell more than older ones, it is interesting to find that in this classification there are 2 videogames of 80's (Tetris and Super Mario Bros) and 1 videogame of 90's (Pokemon Red/Pokemon Blue).
 
 ##  6th Generation (PS2, GameCube, Xbox)
 

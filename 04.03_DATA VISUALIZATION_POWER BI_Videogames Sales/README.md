@@ -38,7 +38,7 @@ In this project I analizye videogames sales of the 3 main console generations th
 First I made an overall analysis about the all time videogames global sales. Then for each generation in scope I compared platforms global sales, the global sales trend by the year of release, the composition of global sales in the main regions, how videogame genres performed and the top videogame by global sales in the generation. Finally I compared the three generations in scope to find who is the better in global sales.
 
 #### Limitations
-One big limitation in the analysis is about the 8th generation data. Because, as it is showed in the chart at the beginning, the 8th generation is still supported and the data avaible are at 2016. Considered that a console has about 10 years of life cycle, for the 8th generation the data are related about half life cycle of the platforms.
+One big limitation in the analysis is about the 8th generation data. Because, as it is showed in the chart at the beginning, the 8th generation (launched in 2012) is still supported and the data avaible are at 2016. Considered that a console has about 10 years of life cycle, for the 8th generation the data are about half of the its platforms life cycle. 
 
 ## Overall
 
@@ -54,7 +54,7 @@ Nintendo is the company who have sold most videogame as developer and as publish
 - **Activision**: Call of Duty;
 - **Sony Company**: Gran Turismo, Final Fantasy and Crash Bandicoot.
 
-Please note these companies are not in order because someone are both developer and publisher, also I reported the title of series videogames (for example exist FIFA 13, FIFA 14 etc...)
+Please note these companies are not in order because someone are both developer and publisher, so I reported them one time to not be repetitive. Also I reported not the title of one videogame but the title of series videogames (for example for FIFA series exist FIFA 13, FIFA 14 etc...).
 
 ### Years of release
 The sales trend is increasing up to 2008 where there is the maximum peak for the games released in that year.
@@ -80,7 +80,7 @@ In this generation we noted a big gap between Sony and others.
 
 ## 7th Generation (PS3, Wii, Xbox360)
 
-In the 7h Generation the main consoles were PS3 (Sony), Wii (Nintendo) and Xbox360 (Microsoft). In this generation the most selling platform was the Xbox 360 with 89k videogames sold (where the all generation sold 260k units), while the platform with more videogame playable was the Playstation 3 (34% of all videogame developed in the generation).
+In the 7h Generation the main consoles were PS3 (Sony), Wii (Nintendo) and Xbox360 (Microsoft). In this generation the most selling platform was the Xbox 360 with 89k videogames sold (where the all generation sold 260k units), while the platform with more videogame playable was the Playstation 3 (33,9% of all videogame developed in the generation) but it is followed by the Xbox360 (33,7% of all videogame developed in the generation).
 
 The largest market is North America, followed by Europe.
 
@@ -93,7 +93,7 @@ The most selling genre are in order: Action, Sports and Shooter. In particular:
 - for Wii, sport with Wii sports and Mario Kart;
 - for Xbox360, shooter and action with Kinect, Grand Theft Auto and Call of Duty.
 
-In this generation we noted there is almost an equality between the platforms for video games sold and developed.
+In this generation we noted Microsoft with Xbox360 was the better one, but the difference among the platforms is not so much significative both for videogames sold and developed. It's interesting that, unlike the previous generation, Nintendo e Microsoft filled the gap with Sony in console industry.
 
 ## 8th Generation (PS4, WiiU, XboxOne)
 
@@ -115,8 +115,16 @@ Also we noted the shooter became the favorite genre, it is possible due to sprea
 
 ## Generations comparison
 
-draft
+In this comparision for the generation I mean to refer to the console descripted above. Please remember the limition in the data about the 8th generation, as mentioned in the abstract. 
 
-## Conclusion
+The most selling generation was the 7th one with 260k sold videogames, over 100k units than the 6th one.
 
-I giochi più venduti sono quelli rilasciati alla metà del ciclo di vita della piattaforma
+The 5 bestseller videogame genres are the same in 6th and 7th generation, except for racing and miscellaneous genres they swapped positions (the first one went down). In the 8th there are a consistent change, from the third position the shooter passes to the first one, and role-play and platform genres became popular got fourth and fiveth positions. The change could be due to the diffusion of the online game and the competitions with the e-sports.
+
+Observing the distribution of the global sale by the videogames years of release, we noted they have similir shape. First, both the 6th and the 7th generation had a duration of about 10 years, so maybe it will be the same for the 8th one. Second, the console lifecycle is overlapped so that there are always two generations supported at the same time, the older one is only closed when a new one is released (so to still have two active generations). Third, the bestseller videogame are the one released in the middle of the generation, so maybe for the 8th generation they will be the one released between 2023 and 2025.
+
+With regard to developers and publishers, for the 8th generation the dataset is limited. The best developers for global sales in these 3 generations were Eletronic Arts and Rockstar in particular for the 6th generation, Nintendo and Ubisoft in particular for the 7th generation. The best publishers for global sales in these 3 generations were Sony and Eletronic Arts in particular for the 6th generation,  Activision, Nintendo and Ubisoft in particular for the 7th generation. 
+
+## Future applications
+
+Future applications for this project could be to get an update dataset for the 8th generation to complete the comparison cross generation and to try to predict the trend of the future generation sales based on the findings the research.

@@ -23,7 +23,7 @@ The goal of this project is to write a script in python language that is able to
 
 ###  03 Project: "Earthquakes in Campi Flegrei"
 
-A research about earthquakes in Campi Flegrei, from the year 2000 to today, and a dashboard to monitor the situation in real time.
+A research about earthquakes in Campi Flegrei, from the year 2000 to today, and a <ins>Tableau dashboard</ins> to monitor the situation in real time.
 
 ## 4) DATA VISUALIZATION
 ###  01 Project: "Tableau Dashboard: Inventory Status Analysis - The Look eCommerce Database"

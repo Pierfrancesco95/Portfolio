@@ -21,6 +21,10 @@ The goal of this project is to write a script in python language that is able to
 
 The goal of this project is to write a script in python language that is able to get data making requests to an <ins>**API**</ins> and using <ins>**JSON**</ins> files. So I imported this script in a Jupyter notebook to get a raw dataset, which I had to clean and explore before I could used it to make a <ins>**Sentiment Analysis**</ins> with <ins>**Natural Languange Processing**</ins> techniques to determine if the emotional tone of comments is positive, negative, or neutral.
 
+###  02 Project: "Earthquakes in Campi Flegrei"
+
+A research about earthquakes in Campi Felgrei, from the year 2000 to today, and a dashboard to monitor the situation in real time.
+
 ## 4) DATA VISUALIZATION
 ###  01 Project: "Tableau Dashboard: Inventory Status Analysis - The Look eCommerce Database"
 

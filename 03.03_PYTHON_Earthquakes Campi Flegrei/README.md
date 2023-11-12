@@ -3,4 +3,4 @@ A research about earthquakes in Campi Felgrei, from the year 2000 to today, and 
 
 Click here for the **link** to the **<mark><a href = "https://public.tableau.com/app/profile/pierfrancesco.esposito/viz/TerremotiCampiFlegrei/Dashboard2#1"> Tableau Dashboard </a></mark>**
 
-Also you'll find, in the repository **script**, a notebook to analyze updated data. 
+Also you'll find, in the repository **"script"**, a notebook to analyze updated data. 

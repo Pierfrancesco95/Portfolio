@@ -38,6 +38,10 @@ The goal of this project is to make a Dashboard using <ins>**Looker Studio**</in
 
 The goal of this project is to represent useful business insights about "Videogames sales at 2016" database using <ins>**Power BI**</ins> to make some dashboards. In particular, I decided to make a comparison among Videogames generation (6th, 7th and 8th ones) focusing on the most famous not-portable platforms of the main players in the industry (Nintendo, Sony and Microsoft).
 
+###  04 Project: "Tableau Dashboard: Research about Italian moods"
+
+A research about Italian moods for a "Data Contest" organized by Human Highway Srl and Boolean Srls.
+
 
 
 
